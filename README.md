@@ -1,5 +1,4 @@
 # 🐻 Zustand v5.0.4 -
-
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Core Concepts](#core-concepts)
